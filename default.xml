@@ -7,8 +7,7 @@
 	revision="refs/tags/android-5.1.1_r5" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
+           fetch="/home/cwayne/Projects/ports/mirror"
            revision="refs/tags/android-5.1.1_r26" />
 
   <remote name="cm"
